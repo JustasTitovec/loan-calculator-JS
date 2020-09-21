@@ -1,0 +1,20 @@
+.input-group-addon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(240, 240, 240);
+  padding: 7px 13px;
+}
+
+#loading,
+#results {
+  display: none;
+}
+
+.input-group > span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(240, 240, 240);
+  padding: 7px 13px;
+}
